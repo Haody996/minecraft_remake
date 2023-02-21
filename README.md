@@ -1,6 +1,9 @@
 # final-project-mini-minecraft-good-game
 final-project-mini-minecraft-good-game created by GitHub Classroom
 
+# Original github url
+https://github.com/CIS460-Fall-2021/final-project-mini-minecraft-good-game
+
 Team Good Game
 Partition of Work:
 
