@@ -1,0 +1,2 @@
+ I receive help from the slides and recording.
+ I receive help from piazza, slides and homework4, I took some codes from homework 4, espesically  the glsl part and texture part, also my work is based on Shineng Tang's milestone1, so I got help from Shineng Tang, and I fix the game engine bug of my homework 1 part 3.

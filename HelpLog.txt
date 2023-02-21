@@ -1,0 +1,3 @@
+2021.11.11 Ask TA Sharon for help with my  "neighbor out of bounds" bug. After fixing it, we found that I got a new bug which createVBOData only work in terrain::draw, which slows down the run speed of the program.
+2021.11.12 Went to office hour to ask TA Di about the createVBOData problem. Fixed by Adam later by moving createVBOData out of instantiateChunkAt() because chunk pointer get destroyed after this function is called,
+so no vbo data created to draw. Also get help from Ziyan Liu with my edge case check for setting up vbo data in chunk.cpp.

@@ -1,0 +1,12 @@
+MS1 Terrain generation
+
+I used FBM noise for grass because it gives a nice slope for grassland. And I used Worley noise for mountain because it's simple to implement with nice output. For the third noise function I used Smoothstep(Worley) as the t value in LERP.
+
+
+Minecraft MileStone Help log
+
+1. Conceptual questions about the noise functions and LERP implementation
+OH on Tuesday 2pm
+2. Question on how to use the 3rd noise function.
+OH on Thursday by Emma. Thank you!
+
